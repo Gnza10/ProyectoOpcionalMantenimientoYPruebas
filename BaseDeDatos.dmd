@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="BaseDeDatos" id="6C882EF0-4CAC-BC95-7432-3A43496A0966" version="3.5">
+<createdBy>gonla</createdBy>
+<createdTime>2023-03-09 17:57:59 UTC</createdTime>
+<ownerDesignName>BaseDeDatos</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6C882EF0-4CAC-BC95-7432-3A43496A0966</designId>
+</OSDM_Design>
